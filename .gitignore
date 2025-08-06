@@ -1,3 +1,26 @@
+# Scanpy / AnnData / Seurat files
+*.h5ad
+*.loom
+*.rds
+*.rdata
+*.h5
+
+# Matrix Market and raw count formats
+*.mtx
+*.mtx.gz
+*.tsv
+*.tsv.gz
+*.csv
+*.csv.gz
+
+# Metadata / temp cache
+*.json
+*.bak
+*.tmp
+*.log
+*.out
+*.err
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
