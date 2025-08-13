@@ -1,6 +1,6 @@
-# FastTag
+# TreeTag
 
-**FastTag** is a fast, interpretable, and recursive marker-based cell annotation method for single-cell RNA-seq data.
+**TreeTag** is a fast, interpretable, and recursive marker-based cell annotation method for single-cell RNA-seq data.
 
 It uses known marker sets to score cells and iteratively splits them based on expression patterns, producing robust subtype annotations with minimal prior assumptions.
 
@@ -21,5 +21,5 @@ It uses known marker sets to score cells and iteratively splits them based on ex
 Coming soon as a pip-installable package. For now, clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/fasttag.git
-cd fasttag
+git clone https://github.com/yourusername/treetag.git
+cd treetag
